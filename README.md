@@ -1,16 +1,21 @@
-### Hi there 👋
+My name is Arman Abasian
+===============================
 
-<!--
-**Arman-Abbasian/Arman-Abbasian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN stack Developer
+-----------------------------
 
-Here are some ideas to get you started:
+*   🚀  I'm currently working on [sisako](https://sisako2002.com)
+*   🤝  I'm open to challenging and creative project and work with professional teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                  
+### Skills
+<p align="left">
+  <img src="https://app.codingrooms.com/assets/ide/html5-original.svg" width="36" height="36" alt="HTML5" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="36" height="36" alt="HTML5" />
+</p>
+                    
+### Socials
+                  
+<p align="left">
+  <a href="https://www.linkedin.com/in/armanabasian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ 
