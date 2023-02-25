@@ -5,7 +5,7 @@ MERN stack Developer
 -----------------------------
 
 *   🚀  I'm currently working on [sisako](https://sisako2002.com)
-*   🤝  I'm open to challenging and creative project and work with professional teams.
+*   🤝  I'm open to challenging and creative projects and working with professional teams.
 
                   
 ### Skills
