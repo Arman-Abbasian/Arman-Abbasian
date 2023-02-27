@@ -7,12 +7,14 @@ MERN stack Developer
 *   🚀  I'm currently working on [sisako](https://sisako2002.com)
 *   🤝  I'm open to challenging and creative projects and working with professional teams.
 ### Badges
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Arman-Abbasian&left_color=red&right_color=green&left)
 ![Profile views](https://gpvc.arturio.dev/Arman-Abbasian)
 
 ### Repos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-Abbasian&theme=blueberry&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arman-Abbasian)](https://git.io/streak-stats)
+### Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arman-Abbasian&theme=blueberry)](https://git.io/streak-stats)
+### Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-Abbasian&theme=blueberry&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
                   
 ### Skills
