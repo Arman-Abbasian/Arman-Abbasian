@@ -12,6 +12,8 @@ MERN stack Developer
 
 ### Repos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-Abbasian&theme=blueberry&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arman-Abbasian)](https://git.io/streak-stats)
+
                   
 ### Skills
 <p align="left">
