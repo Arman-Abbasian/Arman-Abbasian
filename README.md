@@ -6,7 +6,12 @@ MERN stack Developer
 
 *   🚀  I'm currently working on [sisako](https://sisako2002.com)
 *   🤝  I'm open to challenging and creative projects and working with professional teams.
+### Badges
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Arman-Abbasian&left_color=red&right_color=green&left)
+![Profile views](https://gpvc.arturio.dev/Arman-Abbasian)
 
+### Repos
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-Abbasian&theme=blueberry&show_icons=true)
                   
 ### Skills
 <p align="left">
@@ -27,5 +32,6 @@ MERN stack Developer
 ### Socials
                   
 <p align="left">
-  <a href="https://www.linkedin.com/in/armanabasian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/armanabasian" target="_blank" rel="noreferrer" style="margin-right: '100px'; dispaly:'block';"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+   <a href="mailto:abasian.arman@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" width="32" /></a>
  
