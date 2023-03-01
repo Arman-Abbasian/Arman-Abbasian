@@ -19,17 +19,17 @@ MERN stack Developer
                   
 ### Skills
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"  alt="HTML5" style="padding-right:10px;" align="left"  />][webdevplaylist]
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"  alt="CSS3" style="padding-right:10px;" align="left" />][webdevplaylist]
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="javascript" style="padding-right:10px;" align="left" />][webdevplaylist]
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"  alt="react" style="padding-right:10px;" align="left"/>][webdevplaylist]
- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="60" alt="nextjs" style="padding-right:10px;" align="left" />][webdevplaylist]
- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="mongodb" style="padding-right:10px;" align="left" />][webdevplaylist]
-  [<img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" width="60" alt="express" style="padding-right:10px;" align="left" />][webdevplaylist]
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="nodejs" style="padding-right:10px;" align="left" />][webdevplaylist]
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="60" alt="tailwind" style="padding-right:10px;" align="left" />][webdevplaylist]
-  [<img src="https://mui.com/static/logo.png" width="36" alt="materialui" style="padding-right:10px;" align="left" />][webdevplaylist]
-  [<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  width="36px" alt="GitHub" style="padding-right:10px;" align="left" />][webdevplaylist]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"  alt="HTML5" style="padding-right:10px;" align="left"  />]
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"  alt="CSS3" style="padding-right:10px;" align="left" />]
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="javascript" style="padding-right:10px;" align="left" />]
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"  alt="react" style="padding-right:10px;" align="left"/>]
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="60" alt="nextjs" style="padding-right:10px;" align="left" />]
+ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="mongodb" style="padding-right:10px;" align="left" />]
+  [<img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" width="60" alt="express" style="padding-right:10px;" align="left" />]
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="nodejs" style="padding-right:10px;" align="left" />]
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="60" alt="tailwind" style="padding-right:10px;" align="left" />]
+  [<img src="https://mui.com/static/logo.png" width="36" alt="materialui" style="padding-right:10px;" align="left" />]
+  [<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  width="36px" alt="GitHub" style="padding-right:10px;" align="left" />]
 
                     
 ### Socials
