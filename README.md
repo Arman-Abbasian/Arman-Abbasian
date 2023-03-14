@@ -39,7 +39,7 @@ MERN stack Developer
   <br />
   <br />
   <br />
-   
+  
 ### Socials
  <a href="https://www.linkedin.com/in/armanabasian" target="_blank" rel="noreferrer" style="padding-right:10px;" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" style="padding-right:10px;" align="left" /></a>
   <a href="mailto:abasian.arman@gmail.com" target="_blank" rel="noreferrer" style="padding-right:10px;" align="left" width="36"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" width="36" height="36" style="padding-right:10px;" align="left" /></a>
