@@ -38,6 +38,7 @@ MERN stack Developer
   <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  width="36px" alt="GitHub" style="padding-right:10px;" align="left" />
   <br />
   <br />
+  <br />
    
 ### Socials
  <a href="https://www.linkedin.com/in/armanabasian" target="_blank" rel="noreferrer" style="padding-right:10px;" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" style="padding-right:10px;" align="left" /></a>
