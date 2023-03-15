@@ -14,7 +14,7 @@ MERN stack Developer
 ![Profile views](https://gpvc.arturio.dev/Arman-Abbasian)
 
 ### Repos
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-Abbasian&theme=blueberry&show_icons=true)
+
 ### Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arman-Abbasian&theme=blueberry)](https://git.io/streak-stats)
 ### Most used languages
