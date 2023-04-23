@@ -9,7 +9,7 @@ MERN stack Developer
 *   👨‍💼  I'm currently working on [sisako](https://sisako2002.com) 
 *   🖥️ I'm open to challenging and creative projects and working with professional teams.
 *   🎼  I'm a santoor instrument player.
-*   👨‍💼  I am able to speak English and Germany.
+*   👨‍💼  I am able to speak English and German.
 ### Badges
 ![Profile views](https://gpvc.arturio.dev/Arman-Abbasian)
 
