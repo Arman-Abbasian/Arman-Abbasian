@@ -28,7 +28,7 @@ MERN stack Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="javascript" style="padding-right:10px;" align="left" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="36" alt="typescript" style="padding-right:10px;" align="left" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"  alt="react" style="padding-right:10px;" align="left"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="60" alt="nextjs" style="padding-right:10px;" align="left" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReGL5y1FOv0EvcYDsUjObElS-G15wowqoM39yRcjZof7O3J-Ko_zmk6-RPjbY7aDRIZbw&usqp=CAU" width="60" alt="nextjs" style="padding-right:10px;" align="left" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="mongodb" style="padding-right:10px;" align="left" />
   <img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" width="60" alt="express" style="padding-right:10px;" align="left" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="nodejs" style="padding-right:10px;" align="left" />
