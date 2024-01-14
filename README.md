@@ -6,7 +6,7 @@ My name is Arman Abasian
 MERN stack Developer
 -----------------------------
 
-*   👨‍💼  I'm currently working on Freelancer 
+*   👨‍💼  I'm currently working as Freelancer 
 *   🖥️ I'm open to challenging and creative projects and working with professional teams.
 *   🎼  I'm a santoor instrument player.
 *   👨‍💼  I am able to speak English and German.
