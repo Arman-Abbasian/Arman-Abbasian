@@ -11,7 +11,7 @@ MERN stack Developer
 *   🎼  I'm a santoor instrument player.
 *   👨‍💼  I am able to speak English and German.
 ### Badges
-![Profile views](https://gpvc.arturio.dev/Arman-Abbasian)
+
 
 ### Repos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-Abbasian&theme=blueberry&show_icons=true)
