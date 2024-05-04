@@ -3,7 +3,7 @@
 My name is Arman Abasian
 ===============================
 
-MERN stack 
+MERN stack Developer
 -----------------------------
 
 *   👨‍💼  I'm currently working as Freelancer 
