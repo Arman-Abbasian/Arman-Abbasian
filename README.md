@@ -10,7 +10,7 @@ My name is Arman Abasian
 MERN stack Developer
 -----------------------------
 
-*   👨‍💼  I'm currently working at AvaParsi
+*   👨‍💼  I'm currently working at Tarasheh
 *   🖥️ I'm open to challenging and creative projects and working with professional teams.
 *   🎼  I'm a santoor instrument player.
 *   👨‍💼  I am able to speak English and German.
